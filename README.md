@@ -3,6 +3,7 @@ MS-Excel
 
 ## 🔹 Project Title: Vrinda Store Annual Sales Analysis (2025) ##
 🔹 Tools Used: Microsoft Excel (Pivot Tables, Charts, Slicers, Dashboard)
+
 🔹 Key Analysis Areas:
 
 Orders vs Sales Trend Analysis (Monthly)
